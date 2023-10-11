@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > Lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 
 > Company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
@@ -7,8 +7,8 @@
 
 
 ## Table of Contents
-* [General Info](#solution-approach)
-* [Technologies Used](#libraries-used)
+* [Solution Approach](#solution-approach)
+* [Libraries Used](#libraries-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
